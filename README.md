@@ -49,7 +49,6 @@ tiket vip     : 100.000 * 20%
               : 80.000
 
 ## Contoh Output Code
-
 ````
 tipe tiket(reguler/vip):reguler
 apakah mempunyai member(iya/tidak):tidak
@@ -68,7 +67,7 @@ apakah mempunyai member(iya/tidak):iya
 total harga yang harus di bayar 80000.0
 ````
 
-## Cara Kerja Code
+## Cara Kerja Code:
 
 ### Program menentukan harga awal:
 - Tiket VIP: Rp 100.000
@@ -84,11 +83,13 @@ total harga yang harus di bayar 80000.0
 - Jika tidak memiliki (input "tidak"), tidak ada diskon
 - Program menampilkan harga akhir setelah perhitungan diskon
 
-## Contoh perhitungan:
 
+## Contoh perhitungan:
 Jika pilih VIP dan punya member: Rp 100.000 - (20% × Rp 100.000) = Rp 80.000
 Jika pilih Reguler dan punya member: Rp 50.000 - (20% × Rp 50.000) = Rp 40.000
-Program Kalkulator Sederhana
+
+
+# Program Kalkulator Sederhana
 Program kalkulator sederhana untuk menghitung inputan dari user.
 
 ## Deskripsi Program
