@@ -7,6 +7,7 @@ Program ini memungkinkan pengguna untuk:
 Memilih jenis tiket (VIP/Reguler) Menentukan status member Mendapatkan perhitungan total harga tiket dengan diskon jika sudah bergabung menjadi member
 
 ## Flowchart Ticket
+![Flowchart](Diagram_Tiket.png)
 
 ## Contoh Output Program
 
