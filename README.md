@@ -38,7 +38,7 @@ Program kalkulator sederhana untuk menghitung inputan dari user.
 Program kalkulator sederhana yang mampu melakukan operasi dasar matematika dengan dua bilangan, user bisa memilih operasi yang ingin mereka lakukak (+, -, *, /).
 
 ## Flowchart Kalkulator
-
+![Flowchart](Diagram_Kalkulator.png)
 
 ## Cara Kerja Program
 
